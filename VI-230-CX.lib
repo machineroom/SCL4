@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# VI-230-CX
+#
+DEF VI-230-CX PS 0 40 Y Y 1 L N
+F0 "PS" -600 430 50 H V L BNN
+F1 "VI-230-CX" -600 -500 50 H V L BNN
+F2 "CONV_VI-230-CX" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Vicor Corporation" 0 0 50 H I L BNN "MANUFACTURER"
+F5 "3.9" 0 0 50 H I L BNN "PARTREV"
+F6 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F7 "13.46mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+DRAW
+S -600 -400 600 400 0 0 10 f
+X +IN 1 -800 300 200 R 40 40 0 0 I 
+X -IN 4 -800 -300 200 R 40 40 0 0 I 
+X GATE_IN 2 -800 100 200 R 40 40 0 0 I 
+X GATE_OUT 3 -800 -100 200 R 40 40 0 0 O 
+X +OUT 5 800 300 200 L 40 40 0 0 O 
+X +SENSE 6 800 100 200 L 40 40 0 0 I 
+X TRIM 7 800 0 200 L 40 40 0 0 I 
+X -SENSE 8 800 -100 200 L 40 40 0 0 I 
+X -OUT 9 800 -300 200 L 40 40 0 0 O 
+ENDDRAW
+ENDDEF
+#
+# End Library

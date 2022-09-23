@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "VI-230-CX")(type "KiCad")(uri "${KIPRJMOD}/VI-230-CX.kicad_sym")(options "")(descr ""))
+  (lib (name "siemens_a1010-a263")(type "KiCad")(uri "${KIPRJMOD}/siemens_a1010-a263.kicad_sym")(options "")(descr ""))
+)

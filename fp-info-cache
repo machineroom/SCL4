@@ -1,4 +1,4 @@
-20391197410661737
+20392861466594039
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -78938,6 +78938,13 @@ rotary encoder
 0
 5
 4
+SIEDECON
+Siedecon 256+6
+
+
+0
+0
+0
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -85271,8 +85278,8 @@ TRAM size 2
 
 
 0
-0
-0
+32
+32
 Valve
 Valve_ECC-83-1
 Valve ECC-83-1 round pins

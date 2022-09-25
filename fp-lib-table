@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Transputer")(type "KiCad")(uri "${KIPRJMOD}/Transputer.pretty")(options "")(descr ""))
+  (lib (name "SIEDECON")(type "KiCad")(uri "${KIPRJMOD}/SIEDECON.pretty")(options "")(descr ""))
+)
